@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-11T07:36:26 IST" name="Default suite" finished-at="2024-11-11T07:36:31 IST" duration-ms="4511">
+    <groups>
+    </groups>
+    <test started-at="2024-11-11T07:36:26 IST" name="Default test" finished-at="2024-11-11T07:36:31 IST" duration-ms="4511">
+      <class name="Day2.DifferentWaysToCreatePostReq">
+        <test-method signature="testUsingExternalJson()[pri:1, instance:Day2.DifferentWaysToCreatePostReq@74235045]" started-at="2024-11-11T07:36:26 IST" name="testUsingExternalJson" finished-at="2024-11-11T07:36:31 IST" duration-ms="4337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingExternalJson -->
+        <test-method signature="deleteTest()[pri:2, instance:Day2.DifferentWaysToCreatePostReq@74235045]" started-at="2024-11-11T07:36:31 IST" name="deleteTest" finished-at="2024-11-11T07:36:31 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTest -->
+      </class> <!-- Day2.DifferentWaysToCreatePostReq -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
