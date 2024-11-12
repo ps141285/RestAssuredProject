@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-11T11:24:45 IST" name="Default suite" finished-at="2024-11-11T11:24:50 IST" duration-ms="4503">
+  <suite started-at="2024-11-13T01:36:14 IST" name="Default suite" finished-at="2024-11-13T01:36:17 IST" duration-ms="2764">
     <groups>
     </groups>
-    <test started-at="2024-11-11T11:24:45 IST" name="Default test" finished-at="2024-11-11T11:24:50 IST" duration-ms="4503">
-      <class name="Day3.TestQueryAndPathParameter">
-        <test-method signature="testQueryAndPathParameter()[pri:0, instance:Day3.TestQueryAndPathParameter@765d7657]" started-at="2024-11-11T11:24:45 IST" name="testQueryAndPathParameter" finished-at="2024-11-11T11:24:50 IST" duration-ms="4407" status="PASS">
+    <test started-at="2024-11-13T01:36:14 IST" name="Default test" finished-at="2024-11-13T01:36:17 IST" duration-ms="2764">
+      <class name="Day4.ParsingJsonResponseData">
+        <test-method signature="SearchingDataInJSONobj()[pri:0, instance:Day4.ParsingJsonResponseData@765d7657]" started-at="2024-11-13T01:36:14 IST" name="SearchingDataInJSONobj" finished-at="2024-11-13T01:36:17 IST" duration-ms="2691" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testQueryAndPathParameter -->
-      </class> <!-- Day3.TestQueryAndPathParameter -->
+        </test-method> <!-- SearchingDataInJSONobj -->
+      </class> <!-- Day4.ParsingJsonResponseData -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

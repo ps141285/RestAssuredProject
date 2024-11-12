@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Day2.DifferentWaysToCreatePostReq">
+      <class name="Day4.ParsingJsonResponseData">
         <methods>
-          <include name="testUsingExternalJson"/>
+          <include name="SearchingDataInJSONobj"/>
         </methods>
-      </class> <!-- Day2.DifferentWaysToCreatePostReq -->
+      </class> <!-- Day4.ParsingJsonResponseData -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
