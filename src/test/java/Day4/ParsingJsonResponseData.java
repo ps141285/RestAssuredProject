@@ -108,6 +108,7 @@ public class ParsingJsonResponseData
 			
 		}
 		System.out.println("total price of all books======>"+total_price);
+		Assert.assertEquals(total_price, 1366.5);
 	}
 	
 }
